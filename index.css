@@ -1,0 +1,14 @@
+#map {
+    padding: 0px;
+    margin: 0px;
+    height: 100vh;
+}
+
+.leaflet-popup-content {
+    font-size: 20px;
+    font-family: 'Arial', sans-serif;
+    color: #2c2727;
+    /* 改變字體顏色 */
+    line-height: 3;
+    /* 調整行距 */
+}
